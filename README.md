@@ -1,2 +1,23 @@
 # adnabu-automation
-Automation test
+
+## Scenario Automated
+- Search for a product
+- Add product to cart successfully
+
+## Tech Stack
+- Python
+- Selenium
+
+## Setup Instructions
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run test:
+
+```bash
+python test_add_to_cart.py
+```
