@@ -1,0 +1,4 @@
+STEP 1: Website opened successfully
+STEP 2: Product searched successfully
+STEP 3: Product added to cart successfully
+TEST PASSED
