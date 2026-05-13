@@ -19,5 +19,5 @@ pip install -r requirements.txt
 Run test:
 
 ```bash
-python test_add_to_cart.py
+python adnabutest.py
 ```
